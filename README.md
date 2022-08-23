@@ -2,5 +2,5 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhujelaayushgc&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhujelaayushgc&theme=bear&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
