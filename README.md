@@ -40,3 +40,5 @@
 [![](https://visitcount.itsvg.in/api?id=bhujelaayushgc&icon=0&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6rec4kqqstm8jyjykfb4moc44&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
