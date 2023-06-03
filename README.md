@@ -17,8 +17,8 @@
 🔭 Sr. Software Engineer with experience leading engineering team<br>🤝 Love to solve problems and build solutions<br>🌱 Always open to challenges<br>⚡ I learn and ride my motorcycle
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aayushgc) 
+<!-- ## 🌐 Socials: -->
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aayushgc)  -->
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhujelaayush)  -->
 
 # 💻 Tech Stack:
