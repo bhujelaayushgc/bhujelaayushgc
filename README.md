@@ -1,39 +1,83 @@
 # Hi, I'm Aayush 👋
 
-I enjoy building software systems that survive real-world complexity.
+I enjoy building systems that solve real problems.
 
-Over the past decade I've worked across backend architecture, distributed systems, cloud infrastructure, data pipelines, geospatial processing, engineering operations, and AI-enabled software development.
+Over the past decade, I've worked across backend architecture, distributed systems, cloud infrastructure, real-time platforms, data pipelines, geospatial processing, engineering operations, and AI-enabled software development.
 
-These days I spend as much time thinking about engineering workflows as I do writing code.
+I don't see myself as just a programmer.
 
-Modern software engineering isn't just about programming anymore. It's about understanding systems, making good technical decisions, and knowing how to effectively leverage AI throughout planning, design, implementation, testing, debugging, and review.
+I see myself as an engineer.
 
-I enjoy working on problems that require connecting many moving pieces together rather than just implementing isolated features.
+Programming is one way to solve problems. Engineering is understanding the problem, exploring constraints, making good technical decisions, designing systems that last, and then executing with confidence. I enjoy everything that happens before, during, and after writing code.
+
+I enjoy taking ambiguous ideas, understanding the constraints, and turning them into systems that people can build, operate, and rely on.
 
 ---
 
-## Things I enjoy building
+## What I enjoy building
 
-- Distributed systems
-- Backend architecture
-- Cloud platforms
-- Engineering tooling
-- AI-native developer workflows
-- Automation
-- Products people actually pay for
+* Distributed systems
+* Backend and platform architecture
+* Cloud-native infrastructure
+* Engineering tooling and automation
+* AI-enabled engineering workflows
+* Products people actually pay for
+
+---
+
+## Engineering today
+
+Software engineering has changed.
+
+Today, writing code is only one part of building software.
+
+I treat AI as another engineering tool, alongside architecture, testing, documentation, observability, and automation. I use it throughout the engineering lifecycle, from exploring ideas and planning architecture to implementation, testing, debugging, code review, documentation, and operational analysis.
+
+The models will change.
+
+The tools will change.
+
+Good engineering doesn't.
+
+---
+
+## My approach
+
+I enjoy connecting the dots between product, architecture, infrastructure, and execution.
+
+Sometimes that means designing a distributed system.
+
+Sometimes it means reviewing an implementation plan.
+
+Sometimes it means helping AI understand a complex codebase well enough to become a useful engineering partner.
+
+The technology changes. The engineering principles stay surprisingly consistent.
 
 ---
 
 ## Current focus
 
-I'm currently exploring how AI changes software engineering beyond code generation.
+I'm taking everything I've learned from building production systems and applying it to smaller, sharper products of my own.
 
-Not replacing engineers.
+I'm particularly interested in:
 
-Helping engineers think better, move faster, and spend more time solving the problems that actually matter.
+* AI-assisted engineering
+* Developer productivity
+* Platform engineering
+* Automation
+* Engineering systems
+* SaaS products with real customers solving real problems
 
 ---
 
-## Outside of work
+## Things I believe
 
-Currently building my own products, experimenting with AI agents, and exploring ideas that can become sustainable SaaS businesses.
+* Good engineering starts long before the first line of code.
+* Simplicity usually takes more work than complexity.
+* The best architecture is the one people can understand six months later.
+* New tools are worth learning. Blindly following hype isn't.
+* AI won't replace engineers, but engineers who embrace better tools will build better software.
+
+---
+
+If you're building something interesting, solving difficult engineering problems, or simply enjoy talking about systems, AI, or software, feel free to reach out.
